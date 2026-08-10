@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrat-v-bitkoin-kazino-onlayn.github.io
+Sitemap: https://igrat-v-bitkoin-kazino-onlayn.github.io/sitemap.xml
